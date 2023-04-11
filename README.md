@@ -8,9 +8,11 @@ A simple demo app about Star Wars characters.
 
 ## Screenshots
 
-![Screenshot of App Name](/screenshots/listOfCharacters.png "List of characters")
-![Screenshot of App Name](/screenshots/characterDetail.png "Detail of one character")
-![Screenshot of App Name](/screenshots/dashboard.png "Dashboard")
+<div>
+<img src="/screenshots/listOfCharacters.png" alt="Screenshot 1" width="300"/> 
+<img src="/screenshots/characterDetail.png" alt="Screenshot 1" width="300"/> 
+<img src="/screenshots/dashboard.png" alt="Screenshot 1" width="300"/>
+</div>
 
 
 ## Features
