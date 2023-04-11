@@ -9,9 +9,9 @@ A simple demo app about Star Wars characters.
 ## Screenshots
 
 <div>
-<img src="/screenshots/listOfCharacters.png" alt="Screenshot 1" width="300"/> 
-<img src="/screenshots/characterDetail.png" alt="Screenshot 1" width="300"/> 
-<img src="/screenshots/dashboard.png" alt="Screenshot 1" width="300"/>
+<img src="/screenshots/listOfCharacters.png" alt="Screenshot 1" width="200"/> 
+<img src="/screenshots/characterDetail.png" alt="Screenshot 1" width="200"/> 
+<img src="/screenshots/dashboard.png" alt="Screenshot 1" width="200"/>
 </div>
 
 
